@@ -60,24 +60,6 @@
         <div><p>All investments involve risk, including the possible loss of principal. Past performance is not indicative of future results.</p></div>
       </div>
     </div>
-	<div class="card" style="margin-top:20px;">
-  <h3>Form ADV Brochure</h3>
-  <p>
-    Our current Form ADV Part 2A (Firm Brochure) provides detailed information about our advisory services,
-    fees, investment strategies, and business practices.
-  </p>
-
-  <p>
-    <a href="documents/adv-brochure.pdf" target="_blank" class="button button-primary">
-      View / Download ADV Brochure (PDF)
-    </a>
-  </p>
-
-  <p class="small">
-    You may also obtain additional information about our firm at
-    <a href="https://www.adviserinfo.sec.gov" target="_blank">www.adviserinfo.sec.gov</a>.
-  </p>
-</div>
   </div>
 </section>
 
